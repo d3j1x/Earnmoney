@@ -1,0 +1,120 @@
+<script>
+    
+
+
+    import pawnslogo from "$lib/img/pwnslg.png";
+    import screenshootph from "$lib/img/screenshootph.png";
+    import ads from "$lib/img/ads.png";
+    import honeygainlogo from "$lib/img/honeygainlg.png";
+    import coinpayulogo from "$lib/img/coinpayulg.png";
+    import adbtclogo from "$lib/img/adbtclg.png"
+    import { Indicator, Card} from 'flowbite-svelte';
+    import { GiftBoxSolid} from 'flowbite-svelte-icons';
+
+
+  
+
+
+    
+
+</script>
+
+<div class="bg-white pt-14">
+
+<h1 class="pt-1 text-center font-bold text-base text-gray-950 z-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
+
+</div>
+
+
+
+<div class="border-y-2 bg-green-100  mb-2 p-2">
+<div class="m-4 p-4 text-center">
+  <h1><Indicator color="green" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
+  <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl  bg-green-400 text-black rounded-sm px-2">BEST Free Automatic Profitable Apps</span></h1>
+</div>
+
+
+<div style="background-image: url({screenshootph});" class="bg-center bg-no-repeat bg-contain md:bg-cover md:min-h-96 lg:mx-10 xl:mx-20">
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10 my-5">
+    <div class="col-span-1 mx-auto md:my-20">
+        <Card class="hover:bg-transparent hover:backdrop-blur-3xl bg-slate-50 border-purple-600">
+            <img class="w-9 h-9 rounded-full" src={pawnslogo} alt="Karen profile" />
+            <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer">
+              <h5 class="mb-2 text-2xl font-semibold tracking-tight text-purple-700">Pawns App</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">If you care for your time, Pawns.app lets you earn money instantly.</p>
+            <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+            <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer" class="inline-flex items-center text-purple-600 hover:underline font-semibold">
+              Join now
+              <GiftBoxSolid class="w-4 h-4 ms-2.5" />
+            </a>
+        </Card>
+    </div>
+    <div class="col-span-1 m-auto">
+        <Card class="bg-slate-50 border-amber-400 hover:bg-transparent hover:backdrop-blur-3xl">
+            <img class="w-9 h-9 rounded-full" src={honeygainlogo} alt="Karen profile" />
+            <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
+              <h5 class="mb-2 text-2xl font-semibold tracking-tight text-amber-500">Honeygain App</h5>
+            </a>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Download the Honeygain app today and make money effortlessly.
+            </p>
+            <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+            <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer" class="inline-flex items-center text-amber-500 hover:underline font-semibold">
+              Join now
+              <GiftBoxSolid class="w-4 h-4 ms-2.5" />
+            </a>
+        </Card>
+    </div>
+</div>
+</div>
+</div>
+
+
+
+<div class="border-y-2 bg-blue-50  my-2  p-2">
+<div class="m-4 p-4 text-center">
+  <h1><Indicator color="blue" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
+  <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl bg-blue-400 text-black rounded-sm px-2">Earn money by watching Ads</span></h1>
+</div>
+
+<div  style="background-image: url({ads});" class="bg-center bg-no-repeat bg-contain md:bg-cover md:min-h-96 lg:mx-10 xl:mx-20">
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-10 my-5">
+  <div class="col-span-1 mx-auto md:my-20">
+      <Card class="hover:bg-transparent hover:backdrop-blur-xl bg-slate-50 border-blue-600">
+          <img class="w-9 h-9 rounded-full" src={coinpayulogo} alt="Karen profile" />
+          <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
+            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-blue-700">Coinpayu</h5>
+          </a>
+          <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
+          <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+          <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer" class="inline-flex items-center text-blue-600 hover:underline font-semibold">
+            Join now
+            <GiftBoxSolid class="w-4 h-4 ms-2.5" />
+          </a>
+      </Card>
+  </div>
+  <div class="col-span-1 m-auto">
+      <Card class="hover:bg-transparent hover:backdrop-blur-xl bg-slate-50 border-gray-600">
+          <img class="w-9 h-9 rounded-full" src={adbtclogo} alt="Karen profile" />
+          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
+            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-600">Adbtc</h5>
+          </a>
+          <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
+          </p>
+          <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-gray-500 hover:underline font-semibold">
+            Join now
+            <GiftBoxSolid class="w-4 h-4 ms-2.5" />
+          </a>
+      </Card>
+  </div>
+</div>
+</div>
+</div>
+
+
+
+<style>
+</style>
