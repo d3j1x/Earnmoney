@@ -42,7 +42,7 @@
 <Navbar let:toggle dir="ltr" class="fixed shadow-md bg-black z-50 h-16 -mt-1">
     <NavBrand href="/">
       <img src={earnmoneylogo} class="rounded-full me-3 h-16 z-50" alt="Earn money Logo" />
-      <span style="font-family:'Russo One', sans-serif;font-weight: 400;font-style: normal;" class="self-center whitespace-nowrap text-3xl text-white">Earnmoney <span class="text-xl text-purple-800">✪</span></span>
+      <span class="self-center whitespace-nowrap text-3xl text-white italic">Earnmoney <span class="text-xl text-purple-800 not-italic	">✪</span></span>
     </NavBrand>
     <NavHamburger menuClass="text-white hover:text-black"  />
     <NavUl class="-mt-6 z-40 md:-mt-0">

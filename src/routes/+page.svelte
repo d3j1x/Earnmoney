@@ -27,7 +27,7 @@
 
 
 
-<div class="border-y-2 bg-green-100  mb-2 p-2">
+<div class="border-y-2 bg-green-100  my-1 ">
 <div class="my-4 p-4 text-center">
   <h1><Indicator color="green" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
   <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl text-green-400  bg-white rounded px-2">
@@ -77,7 +77,7 @@
 
 
 
-<div class="border-y-2 bg-blue-50  my-2  p-2">
+<div class="border-y-2 bg-blue-50  my-1 ">
 <div class="my-4 p-4 text-center">
   <h1><Indicator color="blue" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
   <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl bg-white text-blue-500 rounded px-2">
