@@ -41,7 +41,7 @@
         <Card class="hover:bg-transparent hover:backdrop-blur-3xl bg-slate-50 border-purple-600">
             <img class="w-9 h-9 rounded-full" src={pawnslogo} alt="Karen profile" />
             <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer">
-              <h5 class="mb-2 text-2xl font-semibold tracking-tight text-purple-700">Pawns App</h5>
+              <h5 class="mb-2 text-xl md:text-2xl font-semibold tracking-tight text-purple-700">Pawns App</h5>
             </a>
             <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">If you care for your time, Pawns.app lets you earn money instantly.</p>
             <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
@@ -55,7 +55,7 @@
         <Card class="bg-slate-50 border-amber-400 hover:bg-transparent hover:backdrop-blur-3xl">
             <img class="w-9 h-9 rounded-full" src={honeygainlogo} alt="Karen profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
-              <h5 class="mb-2 text-2xl font-semibold tracking-tight text-amber-500">Honeygain App</h5>
+              <h5 class="mb-2 text-xl md:text-2xl font-semibold tracking-tight text-amber-500">Honeygain App</h5>
             </a>
             <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Download the Honeygain app today and make money effortlessly.
             </p>
@@ -85,7 +85,7 @@
       <Card class="hover:bg-transparent hover:backdrop-blur-xl bg-slate-50 border-blue-600">
           <img class="w-9 h-9 rounded-full" src={coinpayulogo} alt="Karen profile" />
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
-            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-blue-700">Coinpayu</h5>
+            <h5 class="mb-2 text-xl md:text-2xl font-semibold tracking-tight text-blue-700">Coinpayu</h5>
           </a>
           <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
           <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
@@ -99,7 +99,7 @@
       <Card class="hover:bg-transparent hover:backdrop-blur-xl bg-slate-50 border-gray-600">
           <img class="w-9 h-9 rounded-full" src={adbtclogo} alt="Karen profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
-            <h5 class="mb-2 text-2xl font-semibold tracking-tight text-gray-600">Adbtc</h5>
+            <h5 class="mb-2 text-xl md:text-2xl font-semibold tracking-tight text-gray-600">Adbtc</h5>
           </a>
           <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
           </p>
