@@ -8,7 +8,7 @@
     import honeygainlogo from "$lib/img/honeygainlg.png";
     import coinpayulogo from "$lib/img/coinpayulg.png";
     import adbtclogo from "$lib/img/adbtclg.png"
-    import { Indicator, Card} from 'flowbite-svelte';
+    import { Indicator, Card, Badge} from 'flowbite-svelte';
     import { GiftBoxSolid} from 'flowbite-svelte-icons';
 
 
@@ -68,6 +68,7 @@
     </div>
 </div>
 </div>
+<Badge color="green" class=" text-center w-full  text-xl bg-white">Level 1</Badge>
 </div>
 
 
@@ -75,7 +76,7 @@
 <div class="border-y-2 bg-blue-50  my-2  p-2">
 <div class="m-4 p-4 text-center">
   <h1><Indicator color="blue" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
-  <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl bg-blue-400 text-black rounded-sm px-2">Earn money by watching Ads</span></h1>
+  <span class="font-extrabold text-xl md:text-2xl lg:text-3xl xl:text-4xl bg-blue-500 text-black rounded-sm px-2">Earn money by watching Ads</span></h1>
 </div>
 
 <div  style="background-image: url({ads});" class="bg-center bg-no-repeat bg-contain md:bg-cover md:min-h-96 lg:mx-10 xl:mx-20">
@@ -112,6 +113,8 @@
   </div>
 </div>
 </div>
+<Badge color="indigo" class="text-blue-700 text-center  w-full  text-xl bg-white">Level 2</Badge>
+
 </div>
 
 
