@@ -68,7 +68,10 @@
     </div>
 </div>
 </div>
-<Badge color="green" class=" text-center w-full  text-xl bg-white">Level 1</Badge>
+<h1 class="text-center">
+  <Badge large color="green" class="text-center bg-white">Level 1</Badge>
+</h1>
+
 </div>
 
 
@@ -113,8 +116,9 @@
   </div>
 </div>
 </div>
-<Badge color="indigo" class="text-blue-700 text-center  w-full  text-xl bg-white">Level 2</Badge>
-
+<h1 class="text-center">
+  <Badge large color="indigo" class="text-center bg-white">Level 2</Badge>
+</h1>
 </div>
 
 
