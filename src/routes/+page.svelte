@@ -4,7 +4,7 @@
 
     import pawnslogo from "$lib/img/pwnslg.png";
     import screenshootph from "$lib/img/pxel.png";
-    import ads from "$lib/img/pxel2.png";
+    import ads from "$lib/img/pxel3.png";
     import honeygainlogo from "$lib/img/honeygainlg.png";
     import coinpayulogo from "$lib/img/coinpayulg.png";
     import adbtclogo from "$lib/img/adbtclg.png"
@@ -44,8 +44,8 @@
               <h5 class="my-2 text-center text-xl md:text-2xl lg:text-3xl tracking-tight text-purple-700">
                 Pawns App</h5>
             </a>
-            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 lg:text-lg">If you care for your time, Pawns.app lets you earn money instantly.</p>
-            <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+            <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 lg:text-lg ">If you care for your time, Pawns.app lets you earn money instantly.</p>
+            <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
             <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer" class="inline-flex items-center text-purple-600 hover:underline font-semibold">
               Join now
               <GiftBoxSolid class="w-4 h-4 ms-2.5" />
@@ -56,12 +56,12 @@
         <Card class="bg-transparent backdrop-blur-sm shadow-amber-500 border-none hover:backdrop-blur-none">
             <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Karen profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-xl md:text-2xl lg:text-3xl  tracking-tight text-amber-500 text-center">
+              <h5 class="my-2 text-xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-500 ">
                 Honeygain App</h5>
             </a>
             <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 lg:text-lg">Download the Honeygain app today and make money effortlessly.
             </p>
-            <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+            <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer" class="inline-flex items-center text-amber-500 hover:underline font-semibold">
               Join now
               <GiftBoxSolid class="w-4 h-4 ms-2.5" />
@@ -91,13 +91,13 @@
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-10 my-5">
   <div class="col-span-1 mx-auto md:my-20">
-      <Card class="hover:bg-transparent hover:backdrop-blur-md hover:shadow-blue-500 bg-slate-200 border-blue-600">
-          <img class="w-9 h-9 rounded-full" src={coinpayulogo} alt="Karen profile" />
+      <Card class="bg-transparent backdrop-blur-sm shadow-blue-500 border-none hover:backdrop-blur-none ">
+          <img class="w-10 h-10 rounded-full" src={coinpayulogo} alt="Karen profile" />
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
-            <h5 class="mb-2 text-xl md:text-2xl  tracking-tight text-blue-700">Coinpayu</h5>
+            <h5 class="my-2 text-xl md:text-2xl lg:text-3xl  tracking-tight text-center text-blue-700">Coinpayu</h5>
           </a>
           <p class="mb-3 font-normal text-gray-500 dark:text-gray-400">Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
-          <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
+          <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer" class="inline-flex items-center text-blue-600 hover:underline font-semibold">
             Join now
             <GiftBoxSolid class="w-4 h-4 ms-2.5" />
@@ -105,15 +105,15 @@
       </Card>
   </div>
   <div class="col-span-1 m-auto">
-      <Card class="hover:bg-transparent hover:backdrop-blur-md hover:shadow-gray-500 bg-slate-200 border-gray-600">
-          <img class="w-9 h-9 rounded-full" src={adbtclogo} alt="Karen profile" />
+      <Card class="bg-transparent backdrop-blur-sm shadow-gray-500 border-none hover:backdrop-blur-none ">
+          <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Karen profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
-            <h5 class="mb-2 text-xl md:text-2xl tracking-tight text-gray-600">Adbtc</h5>
+            <h5 class="my-2 text-xl md:text-2xl lg:text-3xl  tracking-tight text-center text-gray-700">Adbtc</h5>
           </a>
-          <p class="mb-3 font-normal text-gray-500 dark:text-gray-500">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
+          <p class="mb-3 font-normal text-gray-500 ">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
           </p>
-          <h1 style="font-family: 'Courier New', Courier, monospace;">Mobile | Desktop</h1>
-          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-gray-600 hover:underline font-semibold">
+          <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
+          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-gray-700 hover:underline font-semibold">
             Join now
             <GiftBoxSolid class="w-4 h-4 ms-2.5" />
           </a>
