@@ -77,7 +77,7 @@
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-300 ">
               Pi App</h5>
           </a>
-          <p class="mb-3 font-normal text-gray-500 dark:text-gray-400 lg:text-lg">
+          <p class="mb-3 font-normal text-gray-500 lg:text-lg dark:text-gray-400 ">
             The first social crypto that you can mine on your mobile phone.
           </p>
           <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
@@ -115,7 +115,7 @@
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-blue-600">Coinpayu</h5>
           </a>
-          <p class="mb-3 font-normal text-black dark:text-gray-400">Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
+          <p class="mb-3 font-normal text-gray-500 lg:text-lg">Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
           <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer" class="inline-flex items-center text-blue-600 hover:underline font-semibold">
             Join now
@@ -127,12 +127,12 @@
       <Card class="bg-transparent backdrop-blur-sm shadow-gray-500 border-none hover:backdrop-blur-none ">
           <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Karen profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-gray-200">Adbtc</h5>
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-black">Adbtc</h5>
           </a>
-          <p class="mb-3 font-normal text-black ">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
+          <p class="mb-3 font-normal text-gray-500 lg:text-lg">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
           </p>
           <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
-          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-gray-200 hover:underline font-semibold">
+          <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-black hover:underline font-semibold">
             Join now
             <GiftBoxSolid class="w-4 h-4 ms-2.5" />
           </a>
