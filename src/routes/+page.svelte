@@ -58,7 +58,7 @@
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-purple-500 border-none backdrop-blur-none ">
             <img class="w-10 h-10 rounded-full" src={pawnslogo} alt="Karen profile" />
             <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-center text-2xl md:text-2xl lg:text-3xl tracking-tight text-purple-700">
+              <h5 class="my-2 text-center text-2xl md:text-2xl lg:text-3xl tracking-tight text-purple-700 font-bold">
                 Pawns App</h5>
             </a>
             <p class="mb-3 font-bold text-gray-400 dark:text-green-400 lg:text-lg ">If you care for your time, Pawns.app lets you earn money instantly.</p>
@@ -73,7 +73,7 @@
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-amber-400 border-none backdrop-blur-none">
             <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Karen profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 ">
+              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 font-bold">
                 Honeygain App</h5>
             </a>
             <p class="mb-3 font-bold text-gray-400 dark:text-gray-400 lg:text-lg">Download the Honeygain app today and make money effortlessly.
@@ -90,7 +90,7 @@
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-300 border-none backdrop-blur-none">
           <img class="w-10 h-10 rounded-full" src={pilogo} alt="Karen profile" />
           <a href="https://minepi.com/d3j1x" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-300 ">
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-300 font-bold">
               Pi Network</h5>
           </a>
           <p class="mb-3 font-bold text-gray-400 lg:text-lg dark:text-gray-400 ">
@@ -132,7 +132,7 @@
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none ">
           <img class="w-10 h-10 rounded-full" src={coinpayulogo} alt="Karen profile" />
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50">Coinpayu</h5>
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">Coinpayu</h5>
           </a>
           <p class="mb-3 font-bold text-gray-700 lg:text-lg">
             Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
@@ -147,7 +147,7 @@
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none ">
           <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Karen profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50">Adbtc</h5>
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">Adbtc</h5>
           </a>
           <p class="mb-3 font-bold text-gray-700 lg:text-lg">Earn bitcoin online by viewing websites. Cheap website promotion with bitcoin payments.
           </p>
@@ -163,7 +163,7 @@
     <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none">
         <img class="w-10 h-10 rounded-full" src={fplogo} alt="Karen profile" />
         <a href="https://faucetpay.io/?r=4173092" target="_blank" rel="noreferrer">
-          <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 ">
+          <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold ">
             Faucetpay</h5>
         </a>
         <p class="mb-3 font-bold text-gray-700 lg:text-lg dark:text-gray-400 ">
@@ -207,7 +207,7 @@
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none ">
             <img class="w-10 h-10 rounded-full" src={earnbtclogo} alt="Karen profile" />
             <a href="https://www.earnbitcoin.net/?r=468241" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900">EarnBitoin Net</h5>
+              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">EarnBitoin Net</h5>
             </a>
             <p class="mb-3 font-bold text-gray-700 lg:text-lg">
               EarnBitcoin.net is the largest educational Bitcoin Faucet online! With 500,000+ happy users.</p>
@@ -222,7 +222,7 @@
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none ">
             <img class="w-10 h-10 rounded-full" src={faucetcrypto} alt="Karen profile" />
             <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900">Faucet Crypto</h5>
+              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">Faucet Crypto</h5>
             </a>
             <p class="mb-3 font-bold text-gray-700 lg:text-lg">What are you waiting for? Grab your free coins today!</p>
             <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-900">Mobile | Desktop</h1>
@@ -237,7 +237,7 @@
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none">
           <img class="w-10 h-10 rounded-full" src={simpleb} alt="Karen profile" />
           <a href="https://simplebits.io/ref/L4tmvQbH1IOWy5ro" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 ">
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold ">
               Simplebits</h5>
           </a>
           <p class="mb-3 font-bold text-gray-700 lg:text-lg dark:text-gray-400 ">
