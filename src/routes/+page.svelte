@@ -3,9 +3,9 @@
 
 
     import pawnslogo from "$lib/img/pwnslg.png";
-    import screenshootph from "$lib/img/pxel.png";
-    import ads from "$lib/img/pxel6.png";
-    import tfaucet from "$lib/img/hello.png";
+    import way from "$lib/img/homepage/way.webp";
+    import ads from "$lib/img/homepage/ads.webp";
+    import tfaucet from "$lib/img/homepage/faucetsdark.webp";
     import honeygainlogo from "$lib/img/honeygainlg.png";
     import coinpayulogo from "$lib/img/coinpayulg.png";
     import pilogo from "$lib/img/pi.png";
@@ -42,7 +42,7 @@
 
 </div>
 
-<div style="background-image: url({screenshootph});" class="bg-center bg-no-repeat bg-cover pb-5">
+<div style="background-image: url({way});" class="bg-center bg-no-repeat bg-cover pb-5">
 
   <div class="px-4 pt-16 pb-4 text-center">
     <h1>
@@ -209,8 +209,8 @@
             <a href="https://www.earnbitcoin.net/?r=468241" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">EarnBitoin Net</h5>
             </a>
-            <p class="mb-3 font-bold text-gray-700 lg:text-lg">
-              EarnBitcoin.net is the largest educational Bitcoin Faucet online! With 500,000+ happy users.</p>
+            <p class="mb-3 font-bold text-gray-600 lg:text-lg">
+              The largest educational Bitcoin Faucet online! With 500,000+ users.</p>
             <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-900">Mobile | Desktop</h1>
             <a href="https://www.earnbitcoin.net/?r=468241" target="_blank" rel="noreferrer" class="inline-flex items-center text-primary-900 hover:underline font-semibold">
               Join now
@@ -224,7 +224,7 @@
             <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">Faucet Crypto</h5>
             </a>
-            <p class="mb-3 font-bold text-gray-700 lg:text-lg">What are you waiting for? Grab your free coins today!</p>
+            <p class="mb-3 font-bold text-gray-600 lg:text-lg">What are you waiting for? Grab your free coins today!</p>
             <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-900">Mobile | Desktop</h1>
             <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer" class="inline-flex items-center text-primary-900 hover:underline font-semibold">
               Join now
@@ -240,7 +240,7 @@
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold ">
               Simplebits</h5>
           </a>
-          <p class="mb-3 font-bold text-gray-700 lg:text-lg dark:text-gray-400 ">
+          <p class="mb-3 font-bold text-gray-600 lg:text-lg dark:text-gray-400 ">
             Earn cryptocurrencies and get paid with our unique mining simulation game.
           </p>
           <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-900">Mobile | Desktop</h1>
