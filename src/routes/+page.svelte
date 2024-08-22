@@ -221,12 +221,12 @@
     <div class="col-span-1 m-auto">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none ">
             <img class="w-10 h-10 rounded-full" src={faucetcrypto} alt="Karen profile" />
-            <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
+            <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900">Faucet Crypto</h5>
             </a>
             <p class="mb-3 font-bold text-gray-700 lg:text-lg">What are you waiting for? Grab your free coins today!</p>
             <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-900">Mobile | Desktop</h1>
-            <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer" class="inline-flex items-center text-primary-900 hover:underline font-semibold">
+            <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer" class="inline-flex items-center text-primary-900 hover:underline font-semibold">
               Join now
               <GiftBoxSolid class="w-4 h-4 ms-2.5" />
             </a>
