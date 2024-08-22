@@ -66,7 +66,7 @@
         </Card>
     </div>
     <div class="col-span-1 m-auto">
-        <Card class="bg-transparent backdrop-blur-sm shadow-amber-400 border-none hover:backdrop-blur-none">
+        <Card class="bg-transparent hover:backdrop-blur-sm shadow-amber-400 border-none backdrop-blur-none">
             <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Karen profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 ">
@@ -83,7 +83,7 @@
     </div>
     
     <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
-      <Card class="bg-transparent backdrop-blur-sm shadow-primary-300 border-none hover:backdrop-blur-none">
+      <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-300 border-none backdrop-blur-none">
           <img class="w-10 h-10 rounded-full" src={pilogo} alt="Karen profile" />
           <a href="https://minepi.com/d3j1x" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-300 ">
@@ -104,9 +104,12 @@
 
 
 <h1 class="text-center">
-  <Badge large color="green" class="text-center my-2 ">Level 1</Badge>
+  <Badge large color="purple" class="text-center my-2 ">Level 1</Badge>
 </h1>
+</div>
 
+<div class="bg-black">
+  <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
 </div>
 
 
@@ -137,7 +140,7 @@
       </Card>
   </div>
   <div class="col-span-1 m-auto">
-      <Card class="bg-transparent backdrop-blur-sm shadow-primary-100 border-none hover:backdrop-blur-none ">
+      <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-100 border-none backdrop-blur-none ">
           <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Karen profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-100">Adbtc</h5>
@@ -153,7 +156,7 @@
   </div>
 
   <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
-    <Card class="bg-transparent backdrop-blur-sm shadow-black border-none hover:backdrop-blur-none">
+    <Card class="bg-transparent hover:backdrop-blur-sm shadow-black border-none backdrop-blur-none">
         <img class="w-10 h-10 rounded-full" src={fplogo} alt="Karen profile" />
         <a href="https://faucetpay.io/?r=4173092" target="_blank" rel="noreferrer">
           <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-black ">
@@ -174,13 +177,18 @@
 </div>
 
 <h1 class="text-center">
-  <Badge large color="indigo" class="text-center my-2">Level 2</Badge>
+  <Badge large color="blue" class="text-center my-2">Level 2</Badge>
 </h1>
 </div>
 
 
+<div class="bg-black">
+  <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
+</div>
 
-<Alert color="dark" class="rounded-none">
+
+
+<Alert color="blue" class="rounded-none h-10">
   <InfoCircleSolid slot="icon" class="w-5 h-5" />
   <span class="">Update alert!</span>
   <span style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" class="font-semibold">Level 3 Coming soon.</span>
