@@ -112,7 +112,7 @@
 </h1>
 </div>
 
-<div class="bg-black">
+<div class="">
   <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
 </div>
 
@@ -186,7 +186,7 @@
 </div>
 
 
-<div class="bg-black">
+<div class="">
   <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
 </div>
 
@@ -262,7 +262,7 @@
 
   
   
-  <div class="bg-black">
+  <div class="">
     <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
   </div>
 
