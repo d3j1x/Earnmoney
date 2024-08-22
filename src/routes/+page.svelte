@@ -44,10 +44,10 @@
 
 <div style="background-image: url({screenshootph});" class="bg-center bg-no-repeat bg-cover pb-5">
 
-  <div class="px-4 py-10 text-center">
+  <div class="px-4 pt-16 pb-4 text-center">
     <h1>
       <Indicator color="purple" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
-      <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl text-purple-700  rounded px-2">
+      <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl text-purple-700  rounded ">
         BEST Free Automatic Profitable Apps
       </span>
     </h1>
@@ -119,7 +119,7 @@
 
 <div style="background-image: url({ads});" class="bg-center bg-no-repeat bg-cover pb-5">
 
-<div class="px-4 py-10 text-center">
+<div class="px-4 pt-16 pb-4 text-center">
   <h1 class=" ">
     <Indicator  class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
   <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl  text-primary-50">
@@ -194,7 +194,7 @@
 
 <div style="background-image: url({tfaucet});" class="bg-center bg-no-repeat bg-cover pb-5">
 
-  <div class="px-4 py-10 text-center">
+  <div class="px-4 pt-16 pb-4 text-center">
     <h1 class=" ">
       <Indicator color="red" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
     <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl  text-primary-900">
