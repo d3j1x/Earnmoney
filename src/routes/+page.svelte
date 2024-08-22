@@ -23,7 +23,7 @@
 
 
 <svelte:head>
-  <title>Earnmoney©</title>
+  <title>𝙀𝙖𝙧𝙣𝙢𝙤𝙣𝙚𝙮 ✪</title>
   <meta name="description" content="MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ Discover the secrets to earning passive and direct income through cryptocurrency at Earnmoney©
   Access expert tips, strategies, and real-time insights on lucrative crypto opportunities. Join our community to stay ahead in the dynamic world of digital assets and unlock your path to financial freedom."/>
 </svelte:head>
