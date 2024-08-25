@@ -28,8 +28,13 @@
 
 <svelte:head>
   <title>𝙀𝙖𝙧𝙣𝙢𝙤𝙣𝙚𝙮 ✪</title>
-  <meta name="description" content="MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ Discover the secrets to earning passive and direct income through cryptocurrency at Earnmoney©
-  Access expert tips, strategies, and real-time insights on lucrative crypto opportunities. Join our community to stay ahead in the dynamic world of digital assets and unlock your path to financial freedom."/>
+  <meta name="description" content="MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ Earnmoney©.
+  If you care for your time, lets earn money instantly.
+  BEST Free Automatic Profitable Apps.
+  Earn Money by Watching Ads , Offers.
+  Trusted Crypto Faucets.
+  ❚█══𝙉𝙚𝙭𝙩 𝙇𝙚𝙫𝙚𝙡══█❚
+  "/>
 </svelte:head>
 
 
@@ -42,7 +47,7 @@
 
 </div>
 
-<div style="background-image: url({way});" class="bg-center bg-no-repeat bg-cover pb-5">
+<div style="background-image: url({way});" class="bg-center bg-no-repeat bg-cover ">
 
   <div class="px-4 pt-16 pb-4 text-center">
     <h1>
@@ -110,14 +115,15 @@
 <h1 class="text-center">
   <Badge large color="purple" class="text-center my-2 ">Level 1</Badge>
 </h1>
-</div>
-
 <div class="">
-  <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
+  <h1 class=" text-center font-mono text-xs text-black">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
+</div>
 </div>
 
 
-<div style="background-image: url({ads});" class="bg-center bg-no-repeat bg-cover pb-5">
+
+
+<div style="background-image: url({ads});" class="bg-center bg-no-repeat bg-cover">
 
 <div class="px-4 pt-16 pb-4 text-center">
   <h1 class=" ">
@@ -183,22 +189,23 @@
 <h1 class="text-center">
   <Badge large color="dark" class="text-center my-2">Level 2</Badge>
 </h1>
-</div>
-
-
 <div class="">
-  <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
+  <h1 class=" text-center font-mono text-xs text-black">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
+</div>
 </div>
 
 
 
-<div style="background-image: url({tfaucet});" class="bg-center bg-no-repeat bg-cover pb-5">
+
+
+
+<div style="background-image: url({tfaucet});" class="bg-center bg-no-repeat bg-cover">
 
   <div class="px-4 pt-16 pb-4 text-center">
     <h1 class=" ">
       <Indicator color="red" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
     <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl  text-primary-900">
-      Best Trusted Crypto Faucets</span></h1>
+      Trusted Crypto Faucets</span></h1>
   </div>
   
   
@@ -257,22 +264,30 @@
   <h1 class="text-center">
     <Badge large color="red" class="text-center my-2">Level 3</Badge>
   </h1>
-  </div>
-
-
-  
-  
   <div class="">
-    <h1 class=" text-center font-mono text-xs text-primary-50">MΛKIПG MӨПΣY FЯӨM ƬΉΣ IПƬΣЯПΣƬ</h1>
+    <h1 class=" text-center font-mono text-xs text-black">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
+  </div>
   </div>
 
 
+  
+
+
+  <div class="my-1 py-1 bg-primary-800 text-2xl text-primary-100 ">
+    <h1 class="font-semibold text-center hover:animate-pulse hover:text-black hover:font-semibold py-5"><a href="/nextLevel">
+      <span class="text-black">❚█══</span><span class="hover:border-2 hover:border-black hover:px-1 hover:border-double">𝙉𝙚𝙭𝙩 𝙇𝙚𝙫𝙚𝙡</span><span class="text-black">══█❚</span>
+    </a>
+    </h1>
+    <div class="">
+      <h1 class=" text-center font-mono text-xs text-black ">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
+    </div>
+  </div>
 
 <Alert color="green" class="rounded-none h-10 ">
   <InfoCircleSolid slot="icon" class="w-5 h-5" />
   <span class="">Update alert!</span>
   <span style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;" class="font-semibold">
-    Level 3 added successfully.</span>
+    Next Level added successfully.</span>
   
 </Alert>
 

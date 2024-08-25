@@ -47,8 +47,8 @@
     <NavHamburger menuClass="text-white hover:text-black"  />
     <NavUl class="-mt-6 z-40 md:-mt-0">
       <NavLi href="/" on:click={() => { if (checkScreenSize()) toggle(); }} class="text-black font-extrabold md:font-normal  md:text-white md:text-base">Home</NavLi>
-      <NavLi href="/services" on:click={() => { if (checkScreenSize()) toggle(); }} class="text-black  md:text-white md:text-base">Services</NavLi>
-      <NavLi href="/products" on:click={() => { if (checkScreenSize()) toggle(); }} class="text-black  md:text-white md:text-base">Products</NavLi>
+      <NavLi href="/nextLevel" on:click={() => { if (checkScreenSize()) toggle(); }}  class="text-green-900  md:text-lime-400 md:text-base font-bold">❚█══𝙉𝙚𝙭𝙩 𝙇𝙚𝙫𝙚𝙡══█❚</NavLi>
+      <NavLi href="/app" on:click={() => { if (checkScreenSize()) toggle(); }} class="text-black  md:text-white md:text-base">App</NavLi>
       <NavLi href="/contact" on:click={() => { if (checkScreenSize()) toggle(); }} class="text-black  md:text-white md:text-base">Contact</NavLi>
       <CloseButton class="md:hidden" on:click={toggle} />
     </NavUl>
