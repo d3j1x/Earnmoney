@@ -61,7 +61,7 @@
   <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 md:gap-2 m-5 xl:my-24">
     <div class="col-span-1 mx-auto md:my-20">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-purple-500 border-none backdrop-blur-none ">
-            <img class="w-10 h-10 rounded-full" src={pawnslogo} alt="Karen profile" />
+            <img class="w-10 h-10 rounded-full" src={pawnslogo} alt="Pawns profile" />
             <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-center text-2xl md:text-2xl lg:text-3xl tracking-tight text-purple-700 font-bold">
                 Pawns App</h5>
@@ -76,7 +76,7 @@
     </div>
     <div class="col-span-1 m-auto">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-amber-400 border-none backdrop-blur-none">
-            <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Karen profile" />
+            <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Honeygain profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 font-bold">
                 Honeygain App</h5>
@@ -93,7 +93,7 @@
     
     <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-300 border-none backdrop-blur-none">
-          <img class="w-10 h-10 rounded-full" src={pilogo} alt="Karen profile" />
+          <img class="w-10 h-10 rounded-full" src={pilogo} alt="PiNetwork profile" />
           <a href="https://minepi.com/d3j1x" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-300 font-bold">
               Pi Network</h5>
@@ -136,7 +136,7 @@
 <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 m-5 xl:my-24">
   <div class="col-span-1 mx-auto md:my-20">
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none ">
-          <img class="w-10 h-10 rounded-full" src={coinpayulogo} alt="Karen profile" />
+          <img class="w-10 h-10 rounded-full" src={coinpayulogo} alt="Coinpayu profile" />
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">Coinpayu</h5>
           </a>
@@ -151,7 +151,7 @@
   </div>
   <div class="col-span-1 m-auto">
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none ">
-          <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Karen profile" />
+          <img class="w-10 h-10 rounded-full" src={adbtclogo} alt="Adbtc profile" />
           <a href="https://r.adbtc.top/3118297" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">Adbtc</h5>
           </a>
@@ -167,7 +167,7 @@
 
   <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
     <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none">
-        <img class="w-10 h-10 rounded-full" src={fplogo} alt="Karen profile" />
+        <img class="w-10 h-10 rounded-full" src={fplogo} alt="faucetpay profile" />
         <a href="https://faucetpay.io/?r=4173092" target="_blank" rel="noreferrer">
           <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold ">
             Faucetpay</h5>
@@ -212,7 +212,7 @@
   <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 m-5 xl:my-24">
     <div class="col-span-1 mx-auto md:my-20">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none ">
-            <img class="w-10 h-10 rounded-full" src={earnbtclogo} alt="Karen profile" />
+            <img class="w-10 h-10 rounded-full" src={earnbtclogo} alt="earnBitcoin profile" />
             <a href="https://www.earnbitcoin.net/?r=468241" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">EarnBitoin Net</h5>
             </a>
@@ -227,7 +227,7 @@
     </div>
     <div class="col-span-1 m-auto">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none ">
-            <img class="w-10 h-10 rounded-full" src={faucetcrypto} alt="Karen profile" />
+            <img class="w-10 h-10 rounded-full" src={faucetcrypto} alt="FaucetCrypto profile" />
             <a href="https://faucetcrypto.com/r/2056413" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold">Faucet Crypto</h5>
             </a>
@@ -242,7 +242,7 @@
   
     <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-900 border-none backdrop-blur-none">
-          <img class="w-10 h-10 rounded-full" src={simpleb} alt="Karen profile" />
+          <img class="w-10 h-10 rounded-full" src={simpleb} alt="Simplebits profile" />
           <a href="https://simplebits.io/ref/L4tmvQbH1IOWy5ro" target="_blank" rel="noreferrer">
             <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-900 font-bold ">
               Simplebits</h5>
