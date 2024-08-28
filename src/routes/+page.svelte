@@ -47,6 +47,9 @@
 
 </div>
 
+
+
+
 <div style="background-image: url({way});" class="bg-center bg-no-repeat bg-cover ">
 
   <div class="px-4 pt-16 pb-4 text-center">
@@ -123,11 +126,13 @@
 
 
 
+
+
 <div style="background-image: url({ads});" class="bg-center bg-no-repeat bg-cover">
 
 <div class="px-4 pt-16 pb-4 text-center">
   <h1 class=" ">
-    <Indicator  class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
+    <Indicator class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
   <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl  text-primary-50">
     Earn Money by Watching Ads , Offers</span></h1>
 </div>
@@ -138,7 +143,8 @@
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-50 border-none backdrop-blur-none ">
           <img class="w-10 h-10 rounded-full" src={coinpayulogo} alt="Coinpayu profile" />
           <a href="https://www.coinpayu.com/?r=d3j1x" target="_blank" rel="noreferrer">
-            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">Coinpayu</h5>
+            <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-primary-50 font-bold">
+              Coinpayu</h5>
           </a>
           <p class="mb-3 font-bold text-gray-700 lg:text-lg">
             Coinpayu is Platform where you can earn crypto by viewing advertisements or doing offers.</p>
@@ -273,7 +279,7 @@
   
 
 
-  <div class="my-1 py-1 bg-primary-800 text-2xl text-primary-100 ">
+  <div class="my-1 py-1 bg-gradient-to-r from-fuchsia-600 to-purple-600 text-2xl text-primary-100 ">
     <h1 class="font-semibold text-center hover:animate-pulse hover:text-black hover:font-semibold py-5"><a href="/nextLevel">
       <span class="text-black">❚█══</span><span class="hover:border-2 hover:border-black hover:px-1 hover:border-double">𝙉𝙚𝙭𝙩 𝙇𝙚𝙫𝙚𝙡</span><span class="text-black">══█❚</span>
     </a>

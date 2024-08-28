@@ -24,15 +24,15 @@
       </h1>
     </div>
 
-    <img class="h-auto md:max-w-2xl m-auto rounded-md" src={nextLevelBg} alt="Next Level"/>
+    <img class="h-auto md:max-w-2xl m-auto rounded-md px-1" src={nextLevelBg} alt="Next Level"/>
 
-    <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-800 border-none backdrop-blur-none mx-auto my-4  ">
+    <Card class="bg-gradient-to-r from-lime-600 to-green-600 hover:bg-gradient-to-l hover:from-lime-600 hover:to-green-600 shadow-primary-800 border-none backdrop-blur-none mx-auto my-6  ">
       <img class="w-10 h-10 rounded-full" src={pionexlogo} alt="Karen profile" />
       <a href="https://www.pionex.com/en/signUp?r=0FuMAzUc6kD" target="_blank" rel="noreferrer">
         <h5 class="my-2 text-center text-2xl md:text-2xl lg:text-3xl tracking-tight text-primary-700 font-bold">
           Pionex</h5>
       </a>
-      <p class="mb-3 font-bold text-gray-400 dark:text-green-400 lg:text-lg "> The best crypto trading bot currently available, 24/7 trading automatically in the cloud.</p>
+      <p class="mb-3 font-semibold text-black dark:text-green-400 lg:text-lg "> The best crypto trading bot currently available, 24/7 trading automatically in the cloud.</p>
       <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
       <a href="https://www.pionex.com/en/signUp?r=0FuMAzUc6kD" target="_blank" rel="noreferrer" 
         class="inline-flex items-center text-primary-600 hover:underline font-semibold">
@@ -48,6 +48,6 @@
     <Badge large class="text-center my-2 bg-green-900 text-green-400">Level 4</Badge>
   </h1>
   <div class="">
-    <h1 class=" text-center font-mono text-xs text-primary-100">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
+    <h1 class=" text-center font-mono text-xs text-black">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
   </div>
   </div>
