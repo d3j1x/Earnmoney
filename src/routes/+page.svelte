@@ -14,6 +14,7 @@
     import earnbtclogo from "$lib/img/earnbtc.png";
     import faucetcrypto from "$lib/img/fc.png";
     import simpleb from "$lib/img/simpleb.png";
+    import hamsterlogo from "$lib/img/homepage/hamster.png";
     import { Indicator, Card, Badge, Alert } from 'flowbite-svelte';
     import { GiftBoxSolid,  InfoCircleSolid} from 'flowbite-svelte-icons';
 
@@ -61,7 +62,7 @@
     </h1>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 md:gap-2 m-5 xl:my-24">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-2 m-5 xl:my-24">
     <div class="col-span-1 mx-auto md:my-20">
         <Card class="bg-transparent hover:backdrop-blur-sm shadow-purple-500 border-none backdrop-blur-none ">
             <img class="w-10 h-10 rounded-full" src={pawnslogo} alt="Pawns profile" />
@@ -78,23 +79,23 @@
         </Card>
     </div>
     <div class="col-span-1 m-auto">
-        <Card class="bg-transparent hover:backdrop-blur-sm shadow-amber-400 border-none backdrop-blur-none">
+        <Card class="bg-transparent hover:backdrop-blur-sm shadow-yellow-300 border-none backdrop-blur-none">
             <img class="w-10 h-10 rounded-full" src={honeygainlogo} alt="Honeygain profile" />
             <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer">
-              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 font-bold">
+              <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-yellow-300 font-bold">
                 Honeygain App</h5>
             </a>
             <p class="mb-3 font-bold text-gray-400 dark:text-gray-400 lg:text-lg">Download the Honeygain app today and make money effortlessly.
             </p>
             <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile | Desktop</h1>
-            <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer" class="inline-flex items-center text-amber-400 hover:underline font-semibold">
+            <a href="https://r.honeygain.me/CRYPTDED49" target="_blank" rel="noreferrer" class="inline-flex items-center text-yellow-300 hover:underline font-semibold">
               Join now
               <GiftBoxSolid class="w-4 h-4 ms-2.5" />
             </a>
         </Card>
     </div>
     
-    <div class="col-span-1 md:col-span-2 xl:col-span-1 m-auto">
+    <div class="col-span-1 m-auto">
       <Card class="bg-transparent hover:backdrop-blur-sm shadow-primary-300 border-none backdrop-blur-none">
           <img class="w-10 h-10 rounded-full" src={pilogo} alt="PiNetwork profile" />
           <a href="https://minepi.com/d3j1x" target="_blank" rel="noreferrer">
@@ -111,6 +112,31 @@
           </a>
       </Card>
   </div>
+
+
+
+
+
+  <div class="col-span-1 m-auto">
+    <Card class="bg-transparent hover:backdrop-blur-sm shadow-amber-400 border-none backdrop-blur-none">
+        <img class="w-10 h-10 rounded-full" src={hamsterlogo} alt="Hamster card" />
+        <a href="https://t.me/hamster_kombAt_bot/start?startapp=kentId5001886409" target="_blank" rel="noreferrer">
+          <h5 class="my-2 text-2xl md:text-2xl lg:text-3xl  tracking-tight text-center text-amber-400 font-bold">
+            Hamster Kombat</h5>
+        </a>
+        <p class="mb-3 font-bold text-gray-400 lg:text-lg dark:text-gray-400 ">
+          is a free straightforward card game that allows players to collect hamsters.
+        </p>
+        <h1 style="font-family: 'Courier New', Courier, monospace;" class="text-primary-100">Mobile |</h1>
+        <a href="https://t.me/hamster_kombAt_bot/start?startapp=kentId5001886409" target="_blank" rel="noreferrer" class="inline-flex items-center text-amber-400 hover:underline font-semibold">
+          Join now
+          <GiftBoxSolid class="w-4 h-4 ms-2.5" />
+        </a>
+    </Card>
+</div>
+
+
+
 
   </div>
 
