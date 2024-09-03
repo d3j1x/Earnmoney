@@ -53,18 +53,18 @@
 
 <div style="background-image: url({way});" class="bg-center bg-no-repeat bg-cover ">
 
-  <div class="px-4 pt-16 pb-4 text-center">
+  <div class="px-4 pt-16 pb-4 xl:pb-0 text-center">
     <h1>
-      <Indicator color="purple" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
-      <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl text-purple-700  rounded ">
+      <Indicator color="dark" class="animate-pulse md:ml-10 lg:ml-32 xl:ml-60"/>
+      <span class="font-extrabold text-2xl md:text-3xl lg:text-4xl xl:text-6xl text-black  rounded ">
         BEST Free Automatic Profitable Apps
       </span>
     </h1>
   </div>
 
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-2 m-5 xl:my-24">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-10 md:gap-2 m-5 xl:gap-2 xl:mx-20">
     <div class="col-span-1 mx-auto md:my-20">
-        <Card class="bg-transparent hover:backdrop-blur-sm shadow-purple-500 border-none backdrop-blur-none ">
+        <Card class="bg-transparent hover:backdrop-blur-sm shadow-purple-500 border-none backdrop-blur-none">
             <img class="w-10 h-10 rounded-full" src={pawnslogo} alt="Pawns profile" />
             <a href="https://pawns.app/?r=1255808" target="_blank" rel="noreferrer">
               <h5 class="my-2 text-center text-2xl md:text-2xl lg:text-3xl tracking-tight text-purple-700 font-bold">
@@ -142,7 +142,7 @@
 
 
 <h1 class="text-center">
-  <Badge large color="purple" class="text-center my-2 ">Level 1</Badge>
+  <Badge large color="dark" class="text-center my-2 ">Level 1</Badge>
 </h1>
 <div class="">
   <h1 class=" text-center font-mono text-xs text-black">𝐌Λ𝐊𝐈П𝐆 𝐌ӨПΣ𝐘 𝐅ЯӨ𝐌 ƬΉΣ 𝐈ПƬΣЯПΣƬ</h1>
